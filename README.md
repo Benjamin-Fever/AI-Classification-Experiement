@@ -5,7 +5,7 @@
 This is a course assignment for my bachelors degree where we looked at and compared the difference to a large collection of AI classification alogirthms
 
 <h4>What I Learnt</h4>
-This project taught me so much about how basic 2D games function. I covered game loops, collision and movement. As well as this was my first time using classes and how they work. This also taught me the basics of reading from a external file via the saving mechanic.
+This project taught me a lot on different types of classification algorithms and the time cost behind each and there accuracy and how each compares to the other interms of accuracy
 </p>
 
 <h2>Classification Alogirthms Covered</h2>
